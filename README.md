@@ -22,7 +22,7 @@ Therefore, ROE versus cost of equity is a widely used valuation approach for fin
 - Cost of equity estimated via CAPM
 - Risk-free rate based on SELIC
 - Market return based on IBOV
-- Analysis period: 2005–2024
+- Analysis period: 2010–2020
 
 ## Results
 
